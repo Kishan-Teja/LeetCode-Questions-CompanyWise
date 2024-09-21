@@ -1,2 +1,2 @@
-ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
-85,Maximal Rectangle,37.7%,Hard,0.012771565679487524, https://leetcode.com/problems/maximal-rectangle
+ID,Status,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
+85,,Maximal Rectangle,37.7%,Hard,0.0127715656794875, https://leetcode.com/problems/maximal-rectangle

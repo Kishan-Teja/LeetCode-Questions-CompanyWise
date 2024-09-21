@@ -1,2 +1,2 @@
-ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
-706,Design HashMap,61.3%,Easy,0.016660110451195708, https://leetcode.com/problems/design-hashmap
+ID,Status,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
+706,,Design HashMap,61.3%,Easy,0.0166601104511957, https://leetcode.com/problems/design-hashmap
