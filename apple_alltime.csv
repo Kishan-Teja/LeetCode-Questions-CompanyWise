@@ -3,7 +3,7 @@ ID,Status,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 146,Done,LRU Cache,33.20%,Medium,2.288507628, https://leetcode.com/problems/lru-cache
 403,,Frog Jump,39.70%,Hard,2.13536173, https://leetcode.com/problems/frog-jump
 54,Done,Spiral Matrix,34.10%,Medium,1.982215833, https://leetcode.com/problems/spiral-matrix
-2,,Add Two Numbers,33.90%,Medium,1.937580609, https://leetcode.com/problems/add-two-numbers
+2,Done,Add Two Numbers,33.90%,Medium,1.937580609, https://leetcode.com/problems/add-two-numbers
 284,,Peeking Iterator,45.70%,Medium,1.898847359, https://leetcode.com/problems/peeking-iterator
 4,,Median of Two Sorted Arrays,29.60%,Hard,1.745701461, https://leetcode.com/problems/median-of-two-sorted-arrays
 53,,Maximum Subarray,46.50%,Easy,1.603979237, https://leetcode.com/problems/maximum-subarray
