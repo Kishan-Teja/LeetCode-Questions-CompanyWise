@@ -7,7 +7,7 @@ ID,Status,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 973,Done,K Closest Points to Origin,63.8%,Medium,5.155641977617712, https://leetcode.com/problems/k-closest-points-to-origin
 819,Done,Most Common Word,44.8%,Easy,5.044810336499242, https://leetcode.com/problems/most-common-word
 138,Done,Copy List with Random Pointer,36.4%,Medium,5.028653490396094, https://leetcode.com/problems/copy-list-with-random-pointer
-5,,Longest Palindromic Substring,29.5%,Medium,4.9178218492776224, https://leetcode.com/problems/longest-palindromic-substring
+5,Done,Longest Palindromic Substring,29.5%,Medium,4.9178218492776224, https://leetcode.com/problems/longest-palindromic-substring
 994,,Rotting Oranges,49.2%,Medium,4.806990208159151, https://leetcode.com/problems/rotting-oranges
 42,,Trapping Rain Water,48.9%,Hard,4.697248826330039, https://leetcode.com/problems/trapping-rain-water
 23,,Merge k Sorted Lists,40.2%,Hard,4.599324597310145, https://leetcode.com/problems/merge-k-sorted-lists
