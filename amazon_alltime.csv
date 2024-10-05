@@ -11,12 +11,12 @@ ID,Status,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 994,Done,Rotting Oranges,49.2%,Medium,4.806990208159151, https://leetcode.com/problems/rotting-oranges
 42,,Trapping Rain Water,48.9%,Hard,4.697248826330039, https://leetcode.com/problems/trapping-rain-water
 23,,Merge k Sorted Lists,40.2%,Hard,4.599324597310145, https://leetcode.com/problems/merge-k-sorted-lists
-763,,Partition Labels,76.1%,Medium,4.548324962256519, https://leetcode.com/problems/partition-labels
+763,Done,Partition Labels,76.1%,Medium,4.548324962256519, https://leetcode.com/problems/partition-labels
 2,,Add Two Numbers,33.9%,Medium,4.4374933211380485, https://leetcode.com/problems/add-two-numbers
 20,,Valid Parentheses,39.0%,Easy,4.362623996011495, https://leetcode.com/problems/valid-parentheses
 21,,Merge Two Sorted Lists,53.5%,Easy,4.322317225718424, https://leetcode.com/problems/merge-two-sorted-lists
 127,,Word Ladder,29.6%,Medium,4.310600785424381, https://leetcode.com/problems/word-ladder
-295,,Find Median from Data Stream,44.3%,Hard,4.2919882291467175, https://leetcode.com/problems/find-median-from-data-stream
+295,Done,Find Median from Data Stream,44.3%,Hard,4.2919882291467175, https://leetcode.com/problems/find-median-from-data-stream
 297,,Serialize and Deserialize Binary Tree,47.5%,Hard,4.29109371663071, https://leetcode.com/problems/serialize-and-deserialize-binary-tree
 692,,Top K Frequent Words,51.8%,Medium,4.255293916882421, https://leetcode.com/problems/top-k-frequent-words
 572,,Subtree of Another Tree,44.1%,Easy,4.159077466360555, https://leetcode.com/problems/subtree-of-another-tree
