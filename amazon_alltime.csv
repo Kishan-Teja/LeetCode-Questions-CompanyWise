@@ -20,7 +20,7 @@ ID,Status,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
 297,,Serialize and Deserialize Binary Tree,47.5%,Hard,4.29109371663071, https://leetcode.com/problems/serialize-and-deserialize-binary-tree
 692,Done,Top K Frequent Words,51.8%,Medium,4.255293916882421, https://leetcode.com/problems/top-k-frequent-words
 572,,Subtree of Another Tree,44.1%,Easy,4.159077466360555, https://leetcode.com/problems/subtree-of-another-tree
-240,,Search a 2D Matrix II,43.2%,Medium,4.048245825242085, https://leetcode.com/problems/search-a-2d-matrix-ii
+240,Done,Search a 2D Matrix II,43.2%,Medium,4.048245825242085, https://leetcode.com/problems/search-a-2d-matrix-ii
 126,,Word Ladder II,22.1%,Hard,4.024013333632092, https://leetcode.com/problems/word-ladder-ii
 472,,Concatenated Words,43.7%,Hard,3.921598333672735, https://leetcode.com/problems/concatenated-words
 642,,Design Search Autocomplete System,44.7%,Hard,3.8667846655909375, https://leetcode.com/problems/design-search-autocomplete-system
